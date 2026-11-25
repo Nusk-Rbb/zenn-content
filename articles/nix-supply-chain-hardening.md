@@ -3,7 +3,7 @@ title: "Nix のサプライチェーン対策"
 emoji: "🔒"
 type: "tech"
 topics: ["nix", "nixos", "security", "supplychain", "macos"]
-published: false
+published: true
 ---
 
 2026年6月、AUR で大量のパッケージが汚染された。初期の波で 1,500 以上、その後さらに巧妙なマルウェアの第2波。

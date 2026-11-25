@@ -31,7 +31,7 @@ published: false
 
 | slug | タイトル | 状態 |
 |---|---|---|
-| `nix-supply-chain-hardening` | Nix のサプライチェーン対策 | 下書き |
+| `nix-supply-chain-hardening` | Nix のサプライチェーン対策 | 公開 |
 
 ## 参考
 
