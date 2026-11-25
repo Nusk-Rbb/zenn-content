@@ -1,6 +1,6 @@
 # zenn-content
 
-[Zenn](https://zenn.dev/) の記事を管理するリポジトリ。
+[Zenn](https://zenn.dev/nuskrbb) の記事を管理するリポジトリ。
 
 ## 使い方
 
@@ -31,7 +31,7 @@ published: false
 
 | slug | タイトル | 状態 |
 |---|---|---|
-| `nix-supply-chain-hardening` | Nix のサプライチェーン対策 | 公開 |
+| [`nix-supply-chain-hardening`](https://zenn.dev/nuskrbb/articles/nix-supply-chain-hardening) | Nix のサプライチェーン対策 | 公開 |
 
 ## 参考
 
